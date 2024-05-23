@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vragulin
-- 👀 I’m interested in Algo Trading
-- 🌱 I’m currently learning Algo Trading
+- 👀 I’m interested in Algo Trading in both TradFI and DeFI
 - 💞️ I’m looking to collaborate on Quant Strategies design and implementations
 - 📫 How to reach me: vladimir.ragulin@gmail.com
 
